@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENDE_EjercicioDeRefactorizar_Vera_G", "ENDE_EjercicioDeRefactorizar_Vera_G\ENDE_EjercicioDeRefactorizar_Vera_G.csproj", "{F53FC90E-5151-4441-9CEF-30EF2E95B0EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F53FC90E-5151-4441-9CEF-30EF2E95B0EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F53FC90E-5151-4441-9CEF-30EF2E95B0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F53FC90E-5151-4441-9CEF-30EF2E95B0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F53FC90E-5151-4441-9CEF-30EF2E95B0EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
