@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Refactorizar
 {
@@ -126,10 +123,8 @@ namespace Refactorizar
 		{
 			ImprimeInformacionPersonal();
 			Console.WriteLine("Telefonos moviles: ");
-			foreach (string s in ListaTelefonoMovil)
-			{
-				Console.WriteLine("Movil: {0}", s);
-			}
+			foreach (string telefonoMovil in ListaTelefonoMovil)
+				Console.WriteLine("Movil: {0}", telefonoMovil);
 		}
 	}
 }
